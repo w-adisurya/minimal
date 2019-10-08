@@ -1,2 +1,4 @@
-# w-adisurya.github.io
-just make sure i know what i am doing
+#hi
+##yeay
+![pic](animal-cuddle-cute-146080.jpg)
+#hihi
