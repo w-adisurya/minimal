@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Basic
+description: Try to make a web using Git and Minimal Theme
+logo: IBM_Thinkpad.jpg
+show_downloads: "true"
